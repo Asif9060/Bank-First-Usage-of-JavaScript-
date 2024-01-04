@@ -1,0 +1,53 @@
+.daw {
+    background-color: slateblue;
+}
+
+.naw {
+    background-color: lightsalmon;
+}
+
+.eto {
+    background-color: orange;
+}
+
+.status {
+    margin: 0 20px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.col-md-5 {
+    margin-right: 2px;
+    margin-left: 10px;
+    position: relative;
+    left: 80px;
+    top: 90px;
+    box-shadow: 0px 0px 15px;
+    border-radius: 15px;
+}
+
+h4 {
+    padding: 10px;
+}
+
+h3 {
+    padding: 10px;
+}
+
+.col-md-4 {
+    position: relative;
+    left: 25px;
+}
+
+#add {
+    border: 2px solid black;
+}
+
+#sub {
+    border: 2px solid black;
+}
+
+.btn {
+    margin-top: 25px;
+    margin-bottom: 8px;
+}
